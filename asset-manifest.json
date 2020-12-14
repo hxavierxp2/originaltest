@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6d9ee2b7.chunk.css",
+    "main.js": "/static/js/main.b6d3b5b0.chunk.js",
+    "main.js.map": "/static/js/main.b6d3b5b0.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.17621bfd.js",
+    "runtime-main.js.map": "/static/js/runtime-main.17621bfd.js.map",
+    "static/css/2.9516a71c.chunk.css": "/static/css/2.9516a71c.chunk.css",
+    "static/js/2.cfc5a3d4.chunk.js": "/static/js/2.cfc5a3d4.chunk.js",
+    "static/js/2.cfc5a3d4.chunk.js.map": "/static/js/2.cfc5a3d4.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.9516a71c.chunk.css.map": "/static/css/2.9516a71c.chunk.css.map",
+    "static/css/main.6d9ee2b7.chunk.css.map": "/static/css/main.6d9ee2b7.chunk.css.map",
+    "static/js/2.cfc5a3d4.chunk.js.LICENSE.txt": "/static/js/2.cfc5a3d4.chunk.js.LICENSE.txt",
+    "static/media/productsuge.css": "/static/media/Montserrat.4a799b11.ttf",
+    "static/media/prod01.d2c17fee.png": "/static/media/prod01.d2c17fee.png",
+    "static/media/prod02.66f97899.png": "/static/media/prod02.66f97899.png",
+    "static/media/prod02.eed3a411.png": "/static/media/prod02.eed3a411.png",
+    "static/media/prod03.a7cda1bf.png": "/static/media/prod03.a7cda1bf.png",
+    "static/media/prod04.728c6d40.png": "/static/media/prod04.728c6d40.png",
+    "static/media/slick-theme.css": "/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.17621bfd.js",
+    "static/css/2.9516a71c.chunk.css",
+    "static/js/2.cfc5a3d4.chunk.js",
+    "static/css/main.6d9ee2b7.chunk.css",
+    "static/js/main.b6d3b5b0.chunk.js"
+  ]
+}
